@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shruti and I'm a Web Developer
 
-<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="http://www.linkedin.com/in/shruti-battu"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
      
      
    ### Technology Stack
